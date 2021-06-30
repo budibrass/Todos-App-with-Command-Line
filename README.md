@@ -1,5 +1,7 @@
 # Todos-App-with-Command-Line
 
+## Challanges
+
 NOTES: Kamu diminta untuk membuat APP TODOS sederhana dan masih menggunakan Command Line (process.argv), dengan menggunakan pattern MVC. Disini belum menggunakan framework apapun karena kita masih berfokus pada pemahaman PATTERN MVC nya. Disini diberikan data.json sebagai media atau database untuk kita menyimpan data, dan dalam membaca data nya kita jugas masih menggunakan SYNCHRONUS
 
 
@@ -23,3 +25,7 @@ Release 5 *** IMPLEMENET COMPLETE COMMAND ***
 
 Release 6 *** IMPLEMENET UNCOMPLETE COMMAND ***
 => Buat lah code untuk mengubah STATUS TODOS yang COMPLETE menjadi UNCOMPLETE di data.json berdasarkan ID yang dimasukkan 
+
+## How To Run This App
+- node app.js [action]
+  => you can replace the action with one of the above (HELP, LIST, ADD, FINDYBYID, DELETE, COMPLETE, UNCOMPLETE)
