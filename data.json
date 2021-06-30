@@ -8,5 +8,10 @@
         "id": 2,
         "task": "belajar golang",
         "status": "complete"
+    },
+    {
+        "id": 3,
+        "task": "testing",
+        "status": "complete"
     }
 ]
