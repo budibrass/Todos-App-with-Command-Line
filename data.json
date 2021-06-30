@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "task": "belajar node js",
+        "status": "uncomplete"
+    },
+    {
+        "id": 2,
+        "task": "belajar golang",
+        "status": "complete"
+    }
+]
