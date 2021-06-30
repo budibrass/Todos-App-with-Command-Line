@@ -27,5 +27,5 @@ Release 6 *** IMPLEMENET UNCOMPLETE COMMAND ***
 => Buat lah code untuk mengubah STATUS TODOS yang COMPLETE menjadi UNCOMPLETE di data.json berdasarkan ID yang dimasukkan 
 
 ## How To Run This App
-- node app.js [action]
-  => you can replace the action with one of the above (HELP, LIST, ADD, FINDYBYID, DELETE, COMPLETE, UNCOMPLETE)
+- node app.js help
+  => you can follow any instructions in help
